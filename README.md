@@ -20,5 +20,5 @@ CHANGELOG:
 10.09.2022 - SMALL_UPDATE [+3 files edited, +71 items updated]:
 - Juice boxes [animation with vanila carton pack, can be placed on surface; added to recipes, food type "Juice", drink sound], 
 - Juice bottles [both Pop & Water bottles; anims, food type, recipes, static model, drink sound], 
-- Lemonades [pop & water bottles; anims, static model, drink sound], 
+- Lemonades, SodaPops [pop & water bottles; anims, static model, drink sound], 
 - Ice Cream "Popsicle" [corn dog static model included to animation].
