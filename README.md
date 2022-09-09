@@ -17,7 +17,7 @@ CHANGELOG:
 	+ pack of pasteurized milk and canisters with milk now use in-game models and textures aswell as "RedBull" and "POWER" energy drinks;
 	+ added some recipes to milk drinks/food and chocolate.
 	
-10.09.2022 - SMALL_UPDATE [+2 files edited, 58 items updated]:
+10.09.2022 - SMALL_UPDATE [+3 files edited, +71 items updated]:
 - Juice boxes [animation with vanila carton pack, can be placed on surface; added to recipes, food type "Juice", drink sound], 
 - Juice bottles [both Pop & Water bottles; anims, food type, recipes, static model, drink sound], 
 - Lemonades [pop & water bottles; anims, static model, drink sound], 
