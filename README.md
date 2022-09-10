@@ -5,7 +5,7 @@ The main goal is to equalize the visual component of the Hydrocraft mod with the
 
 HOW to Install:
 
-Just unpack zip into Hydrocraft (Continued) folder accepting all replacements.
+Just unpack zip into Hydrocraft (Continued by robot ex140) folder accepting all replacements.
 
 CHANGELOG:
 
