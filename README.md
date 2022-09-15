@@ -3,7 +3,8 @@ HC Forgetthecat small fixes.
 
 ENG
 The main goal is to equalize the visual component of the Hydrocraft mod with the original game [41.74]. At the moment, fix supplements all recipes, kitchen books, skill books, all types of magazines, drinks in soda bottles, juices in carton boxes, milk, energy drinks, juices in plastic bottles, ice cream, cakes, pizzas, fruits, vegetables, sausages, fish. Added animations, sounds, items added to vanilla recipes, almost all items can be put on the surface (using a 3D model).
-RU
+
+ RU
 Главной целью моей работы было наконец избавиться от пустых рук при чтении ВСЕХ журналов, книг, тетрадей с рецептами из мода Hydrocraft Continued. В данный момент изменениям подверглась и еда, множество напитков из мода, в разных контейнерах и ёмкостях (сок в картоне, бутылки с лимонадом, банки с энергетиком, молоко). Рыба и пироги теперь так же имеют анимации и 3D модели, взятые из ванильной игры. Надеюсь вам понравится!
 
 HOW to Install:
